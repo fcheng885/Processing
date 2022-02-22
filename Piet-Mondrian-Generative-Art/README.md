@@ -1,6 +1,6 @@
 ### Piet Mondrian Generative Art
 
-Generates randomized modern rectagular art similar to thw works of Piet Mondrian's "Composition in Red, Blue, and Yellow": 
+Generates randomized modern rectagular art similar to the works of Piet Mondrian's "Composition in Red, Blue, and Yellow": 
 https://en.wikipedia.org/wiki/Piet_Mondrian 
 
 Credit to: 
