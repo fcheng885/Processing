@@ -6,4 +6,4 @@
 
 ![Screen Shot 2022-02-22 at 8 44 24 PM](https://user-images.githubusercontent.com/74201038/155248932-bdde80b8-771c-4c76-b2c6-b09d8207a282.png)
 
-![ Alt text](Feb-22-2022 21-10-20.gif) / ! [](Feb-22-2022 21-10-20.gif)
+![ Alt text](Feb-22-2022 21-10-20.gif)
